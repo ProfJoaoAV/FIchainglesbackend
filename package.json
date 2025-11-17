@@ -1,0 +1,14 @@
+{
+  "name": "ficha-ingles-backend",
+  "version": "1.0.0",
+  "description": "Servidor backend para corrigir a ficha de inglês",
+  "main": "backend-server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node backend-server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
